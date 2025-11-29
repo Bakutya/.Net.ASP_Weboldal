@@ -1,0 +1,451 @@
+﻿body {
+    background-image: url('../Image/Wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.image_elso {
+    border: none;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 585px;
+    left: 350px;
+}
+.image_masodik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 100px;
+    left: 350px;
+}
+
+.image_harmadik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 190px;
+    left: 350px;
+}
+
+
+.image_negyedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 430px;
+    left: 1190px;
+}
+
+.image_ötödik {
+   position:absolute;
+    width: 70px;
+    height: 70px;
+   top:260px;
+   left:350px;
+    
+}
+
+.image_hatodik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 30px;
+    left: 350px;
+}
+
+.image_hetedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 420px;
+    left: 350px;
+}
+
+.image_nyolcadik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 340px;
+    left: 350px;
+}
+
+.image_kilencedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 620px;
+    left: 1190px;
+}
+
+.image_tizedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 750px;
+    left: 350px;
+}
+
+.image_tizeneggyedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 20px;
+    left: 1190px;
+}
+
+
+
+.image_tizekettedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 100px;
+    left: 1190px;
+}
+
+.image_tizenharmadik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 180px;
+    left: 1190px;
+}
+
+
+.image_tizennegyedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 270px;
+    left: 1190px;
+}
+
+.image_tizenötödik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 360px;
+    left: 1190px;
+}
+
+.image_tizenhatodik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 500px;
+    left: 350px;
+}
+
+.image_tizenhetedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 530px;
+    left: 1190px;
+}
+
+.image_tizennyolcadik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 670px;
+    left: 350px;
+}
+
+.image_tizenkilencedik {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 710px;
+    left: 1190px;
+}
+
+
+
+
+.button_elso {
+    background-color: transparent;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 10px 10px 500px;
+    margin-top: 30px;
+    border:none;
+}
+.button_elso:hover{
+    background-color:Highlight;
+}
+.button_masodik{
+    background-color:transparent;
+    border:none;
+    font-size:20px;
+    width:450px;
+    height:50px;
+    margin:10px 20px 30px 40px;
+    margin-left:-463px;
+    transform:translateY(80px)
+    
+}
+.button_masodik:hover{
+    background-color:Highlight;
+}
+
+.button_harmadik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(160px)
+}
+.button_harmadik:hover{
+    background-color:Highlight;
+}
+
+.button_negyedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(240px)
+}
+.button_negyedik:hover{
+    background-color:Highlight;
+}
+
+.button_ötödik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(320px)
+}
+
+.button_ötödik:hover{
+    background-color:Highlight;
+}
+
+.button_hatodik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(400px)
+}
+
+.button_hatodik:hover{
+    background-color:Highlight;
+}
+
+.button_hetedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(480px)
+}
+
+.button_hetedik:hover{
+    background-color:Highlight;
+}
+
+.button_nyolcadik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(560px)
+}
+
+.button_nyolcadik:hover{
+    background-color:Highlight;
+}
+
+.button_kilencedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(640px)
+}
+
+.button_kilencedik:hover{
+    background-color:Highlight;
+}
+
+
+.button_tizedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: -473px;
+    transform: translateY(720px)
+}
+
+.button_tizedik:hover{
+    background-color:Highlight;
+}
+
+.button_tizenegyedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 20px 30px 40px;
+    margin-left: 350px;
+    transform: translateY(-3px)
+}
+
+.button_tizenegyedik:hover{
+    background-color:Highlight;
+}
+
+.button_tizenkettedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-13px)
+}
+
+.button_tizenkettedik:hover{
+    background-color:Highlight;
+}
+
+.button_tizenharmadik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-20px)
+}
+
+.button_tizenharmadik:hover{
+    background-color:Highlight;
+}
+
+.button_tizennegyedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-25px)
+}
+
+.button_tizennegyedik:hover{
+    background-color:Highlight;
+}
+
+
+.button_tizenötödik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-30px)
+}
+
+.button_tizenötödik:hover{
+    background-color:Highlight;
+}
+
+.button_tizenhatodik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-35px)
+}
+
+.button_tizenhatodik:hover{
+    background-color:Highlight;
+}
+
+.button_tizenhetedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-35px)
+}
+
+.button_tizenhetedik:hover{
+    background-color:Highlight;
+}
+
+.button_tizennyolcadik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-35px)
+}
+
+.button_tizennyolcadik:hover{
+    background-color:Highlight;
+}
+
+.button_tizenkilencedik {
+    background-color:transparent;
+    border:none;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    margin: 10px 40px 30px 10px;
+    margin-left: 1334px;
+    transform: translateY(-35px)
+}
+
+.button_tizenkilencedik:hover{
+    background-color:Highlight;
+}
+

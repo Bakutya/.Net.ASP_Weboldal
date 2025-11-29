@@ -1,0 +1,58 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('../Image/Wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.regisztracio_contener {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 100px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+    .regisztracio_contener h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+#txtUsername,#txtPassword{
+    display:block;
+    width:100%;
+    margin-bottom:15px;
+    padding:10px;
+    font-size:14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#btnRegisztracio {
+    width: 107%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+btnVissza {
+    width: 107%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
