@@ -1,0 +1,51 @@
+
+
+## Build results
+bin/
+obj/
+Debug/
+Release/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio temporary files
+.vs/
+*.vsscc
+*.vspscc
+*_i.c
+*_p.c
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.tmp
+*.tmp_proj
+
+## Package directories
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+## Others
+*.dbmdl
+*.bak
+*.backup
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# If you use Rider IDE
+.idea/
+
+users.json
+
