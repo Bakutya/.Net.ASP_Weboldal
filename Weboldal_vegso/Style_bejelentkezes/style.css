@@ -5,7 +5,7 @@ body {
     font-family: Arial, sans-serif;
     background-image: url('../Image/Wallpaper.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%; 
     background-position: center;
     height: 100vh;
 }

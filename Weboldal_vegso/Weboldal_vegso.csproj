@@ -200,6 +200,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Image\chart_.png" />
+    <Content Include="Image\cmd_kep.png" />
     <Content Include="Image\CPU315-N.png" />
     <Content Include="Image\csb.png" />
     <Content Include="Image\Directory.png" />
