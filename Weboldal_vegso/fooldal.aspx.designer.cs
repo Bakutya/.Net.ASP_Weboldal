@@ -24,6 +24,15 @@ namespace Weboldal_vegso
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
+        /// button_ötödik control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button button_ötödik;
+
+        /// <summary>
         /// button_elso control.
         /// </summary>
         /// <remarks>
@@ -42,6 +51,24 @@ namespace Weboldal_vegso
         protected global::System.Web.UI.WebControls.Button button_masodik;
 
         /// <summary>
+        /// button_harmadik control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button button_harmadik;
+
+        /// <summary>
+        /// button_negyedik control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button button_negyedik;
+
+        /// <summary>
         /// image_elso control.
         /// </summary>
         /// <remarks>
@@ -58,5 +85,23 @@ namespace Weboldal_vegso
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Image image_masodik;
+
+        /// <summary>
+        /// image_harmadik control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image image_harmadik;
+
+        /// <summary>
+        /// image_negyedik control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image image_negyedik;
     }
 }

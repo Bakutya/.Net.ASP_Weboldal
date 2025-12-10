@@ -19,6 +19,12 @@ namespace Weboldal_vegso
             }
         }
 
+        protected void Kijelentkezes_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("bejelentkezes.aspx");
+        }
+
+
         protected void Calc_Click(object sender, EventArgs e)
         {
             try
@@ -45,6 +51,30 @@ namespace Weboldal_vegso
             }
         }
 
+        protected void Notepad_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Process.Start("notepad.exe");
+
+            }
+            catch (Exception ex)
+            {
+                Response.Write("Hiba történt: " + ex.Message);
+            }
+        }
+        protected void Kepmetszo_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Process.Start("snippingtool.exe");
+
+            }
+            catch (Exception ex)
+            {
+                Response.Write("Hiba történt: " + ex.Message);
+            }
+        }
 
     }
 }

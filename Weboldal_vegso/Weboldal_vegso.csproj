@@ -204,9 +204,11 @@
     <Content Include="Image\CPU315-N.png" />
     <Content Include="Image\csb.png" />
     <Content Include="Image\Directory.png" />
+    <Content Include="Image\Képmetszo.jpg" />
     <Content Include="Image\MEAC.png" />
     <Content Include="Image\Mstsc.png" />
     <Content Include="Image\Naplo.png" />
+    <Content Include="Image\notepad.jpg" />
     <Content Include="Image\NOx.png" />
     <Content Include="Image\Remote.png" />
     <Content Include="Image\Wallpaper.png" />

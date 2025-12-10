@@ -40,6 +40,23 @@ form {
     left: 350px;
 }
 
+.image_harmadik {
+    border: none;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 250px;
+    left: 350px;
+}
+.image_negyedik {
+    border: none;
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: 410px;
+    left: 350px;
+}
+
 
 
 .button_elso {
@@ -67,5 +84,49 @@ form {
     left: 350px;
 }
 .button_masodik:hover{
+    background-color: Highlight;
+}
+
+.button_harmadik {
+    background-color: transparent;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    border: none;
+    top: 280px;
+    position: relative;
+    left: -102px;
+}
+.button_harmadik:hover{
+    background-color: Highlight;
+}
+
+.button_negyedik {
+    background-color: transparent;
+    font-size: 20px;
+    width: 450px;
+    height: 50px;
+    border: none;
+    top: 390px;
+    position: relative;
+    left: 1050px;
+}
+
+.button_negyedik:hover {
+    background-color: Highlight;
+}
+
+.button_ötödik {
+    background-color: transparent;
+    font-size: 20px;
+    width: 240px;
+    height: 50px;
+    border: none;
+    top: 10px;
+    position: relative;
+    left: 1700px;
+}
+
+.button_ötödik:hover {
     background-color: Highlight;
 }
